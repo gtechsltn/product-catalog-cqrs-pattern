@@ -8,3 +8,5 @@ Using the CQRS Pattern, this application is an example of the article I produced
 - EF Core
 
 To run this project locally you need to have the .NET 6 SDK installed.
+
+https://www.telerik.com/blogs/applying-cqrs-pattern-aspnet-core-application
